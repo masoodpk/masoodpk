@@ -2,7 +2,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=35&duration=4000&pause=1000&color=3498DB&center=true&vCenter=true&width=500&height=70&lines=Hello%2C+I'm+Masood+pk!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" /></a>
 </h1>
 
-<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #3498db;">💻 Full Stack Developer | 🎨 UI/UX Enthusiast</h2>
+<h2 align="center" style="font-family: 'Poppins', sans-serif; font-weight: 600; color: #3498db;">💻 Software Developer | 🎨 UI/UX Enthusiast</h2>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
